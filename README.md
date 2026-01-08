@@ -5,7 +5,7 @@ I’m a Mathematics student at the University of Waterloo specializing in Financ
 My interests sit at the intersection of:
 - software engineering
 - data & analytics
-- financial systems and analytics
+- financial systems and instruments
 
 ## What I’ve worked on
 - Automation & data pipelines in Python and R for large-scale financial and economic datasets
@@ -18,7 +18,7 @@ My interests sit at the intersection of:
 
 ### Selected Projects
 - Unnamed (DeltaHacks 2026)
-- 
+  
 - SmartSkin (GeeseHacks 2025) 
   Wearable health monitoring prototype using Arduino + Python, with backend integrations for alerts and risk detection.
 
