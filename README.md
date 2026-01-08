@@ -17,12 +17,12 @@ My interests sit at the intersection of:
 - MEAN stack fundamentals – understanding how frontend, backend, and data layers interact in modern web applications
 
 ### Selected Projects
-- Unnamed (DeltaHacks 2026)
+- **TBD** (DeltaHacks 2026)
   
-- SmartSkin (GeeseHacks 2025) 
+- **SmartSkin** (GeeseHacks 2025) 
   Wearable health monitoring prototype using Arduino + Python, with backend integrations for alerts and risk detection.
 
-- Data Processing & ETL Scripts  
+- **Data Processing & ETL Scripts**  
   Modular pipelines for cleaning, linking, and validating large datasets in production workflows.
 
 - **Personal Website**  
